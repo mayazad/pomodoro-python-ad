@@ -6,7 +6,6 @@ A beautiful Pomodoro timer built with Python + Tkinter.
 - Custom session names
 - Daily progress tracking (CSV)
 - Weekly charts (matplotlib)
-- Google Sheets sync
 
 ## 🚀 How to Run
 
