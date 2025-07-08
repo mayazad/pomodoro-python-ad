@@ -10,7 +10,27 @@ A beautiful Pomodoro timer built with Python + Tkinter.
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/mayazad/pomodoro-python-ad.git
 cd pomodoro-timer
 pip install -r requirements.txt
 python pomodoro.py
+
+✅ Python 3.9+ required
+
+📁 Files
+	•	pomodoro.py - main app
+	•	alert.mp3 - sound
+	•	icon.ico - app icon
+
+🧑‍💻 Made with ❤️ by MayazAD
+
+---
+
+### 🐙 4. Push to GitHub
+
+#### A. Initialize Git
+
+```bash
+git init
+git add .
+git commit -m "🎉 Initial commit - Pomodoro Timer"
