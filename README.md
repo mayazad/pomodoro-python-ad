@@ -1,2 +1,17 @@
-# pomodoro-python-ad
-Just a simple pomodoro timer. Created this to learn some stuffs with python. 
+# Pomodoro Timer ⏰
+A beautiful Pomodoro timer built with Python + Tkinter.
+
+## 🔥 Features
+- Dark mode toggle 🌙☀️
+- Custom session names
+- Daily progress tracking (CSV)
+- Weekly charts (matplotlib)
+- Google Sheets sync
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/your-username/pomodoro-timer.git
+cd pomodoro-timer
+pip install -r requirements.txt
+python pomodoro.py
