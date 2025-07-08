@@ -11,7 +11,7 @@ A beautiful Pomodoro timer built with Python + Tkinter.
 
 ```bash
 git clone https://github.com/mayazad/pomodoro-python-ad.git
-cd pomodoro-timer
+cd pomodoro-python-ad
 pip install -r requirements.txt
 python pomodoro.py
 
